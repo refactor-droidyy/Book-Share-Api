@@ -1,0 +1,3 @@
+%%%%%%%%%%% TOKEN %%%%%%%%%%%%%%
+ 
+ JSONDATA + SIGNATURE(can be verified for time bounded till when the user is allowed) => JWT(JSON WEB TOKEN)
